@@ -61,7 +61,7 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    background-color: black;
+    background-color: #fff;
     color: black;
 }
 
